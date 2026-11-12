@@ -1,0 +1,1 @@
+Password cracked successfully! The plaintext is: Google101
